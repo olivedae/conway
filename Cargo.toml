@@ -1,0 +1,18 @@
+[package]
+name = "game_of_life"
+version = "0.1.0"
+<<<<<<< HEAD
+authors = ["Richard Protasov <richardprotasov@gmail.com>"]
+=======
+authors = ["Olive Dae <itsolivedae@gmail.com>"]
+>>>>>>> 3694ae9... Initial commit
+
+[dependencies]
+piston = "0.10"
+pistoncore-glutin_window = "0.12"
+piston2d-graphics = "0.9"
+piston2d-opengl_graphics = "0.12"
+piston_window = "0.23.0"
+image = "0.3.11"
+rand = "0.3.8"
+find_folder = "0.2.0"
